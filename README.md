@@ -1,4 +1,4 @@
-# chunkofUtilitys.js
+# chunkofUtility.js
 
 ユーティリティ関数群です。
 
