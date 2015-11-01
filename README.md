@@ -62,5 +62,6 @@ HimeWorksさんの[Custom Page Conditions MV](http://himeworks.com/2015/10/custo
 と併せて使うことで、イベントの出現条件としても使えます。
 
 ### Sample
+21:00～23:59の間だけ出現するイベント。
 
 ![](screenshot/useCustomPageCondition.png)
