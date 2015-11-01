@@ -5,7 +5,7 @@
 RPGツクールMVのプラグインとして読み込むと後述のユーティリティ関数が使えるようになります。
 
 **「イベント分岐条件」** として使うことを想定した関数群です。
-姫HimeWorksさんの[Custom Page Conditions MV](http://himeworks.com/2015/10/custom-page-conditions-mv/)
+HimeWorksさんの[Custom Page Conditions MV](http://himeworks.com/2015/10/custom-page-conditions-mv/)
 と併せて使うことで **「イベント出現条件」** としても使えます。
 
  関数は、**グローバル変数"chunkofUt"を通して使用します。**
@@ -58,7 +58,7 @@ chunkofUt.isDay('MON')
 ---
 ## イベントの出現条件 として使う
 
-姫HimeWorksさんの[Custom Page Conditions MV](http://himeworks.com/2015/10/custom-page-conditions-mv/)
+HimeWorksさんの[Custom Page Conditions MV](http://himeworks.com/2015/10/custom-page-conditions-mv/)
 と併せて使うことで、イベントの出現条件としても使えます。
 
 ### Sample
