@@ -10,8 +10,14 @@ HimeWorksさんの[Custom Page Conditions MV](http://himeworks.com/2015/10/custo
 
  関数は、**グローバル変数"chunkofUt"を通して使用します。**
 
+ * [inRangeTime 時刻のチェック](#inRangeTime)
+ * [isDay 曜日のチェック](#isDay)
+ * [イベントの出現条件 として使う](#as_page_condition)
+
+
 ---
-## inRangeTime (時刻のチェック)
+<a id="inRangeTime"></a>
+## inRangeTime 時刻のチェック
 
 現在時間が指定範囲内であればtrueを返す関数です。
 
@@ -33,7 +39,8 @@ chunkofUt.inRangeTime('11:00','20:59');
 ![](screenshot/inTimeRange.png)
 
 ---
-## isDay (曜日のチェック)
+<a id="isDay"></a>
+## isDay 曜日のチェック
 
 現在が指定の曜日であればtrueを返す関数です。
 
@@ -56,6 +63,7 @@ chunkofUt.isDay('MON')
 ![](screenshot/isDay.png)
 
 ---
+<a id="as_page_condition"></a>
 ## イベントの出現条件 として使う
 
 HimeWorksさんの[Custom Page Conditions MV](http://himeworks.com/2015/10/custom-page-conditions-mv/)
