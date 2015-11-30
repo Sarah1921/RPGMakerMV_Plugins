@@ -11,7 +11,11 @@
  * @plugindesc ユーティリティ関数群。
  * @author chunkof
  */
-chunkofUt = {};
+
+if (typeof chunkofUt === "undefined") {
+  chunkofUt = {};
+}
+
 
 (function() {
   //
