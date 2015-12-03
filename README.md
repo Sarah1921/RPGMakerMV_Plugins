@@ -6,7 +6,7 @@ MITです。
 
 [LICENSE.txt](LICENSE.txt)
 
-ソース内の著作権表示「Copyright (c) chunkof」を残しておいてもらえれば、変更・配布は自由です。
+ソース内の著作権表示「Copyright (c) chunkof」を残しておいてもらえれば、使用・変更・配布は自由です。
 
 # Plugins
 
