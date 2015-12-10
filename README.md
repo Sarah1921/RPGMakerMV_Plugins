@@ -27,7 +27,7 @@ Webで公開しているゲームについて、内容を更新したのに
     - マップやイベント：versionIdが異なる場合はキャッシュを使用しない。
 
 
- - [キャッシュ制御 Cache control](cachecontrol_easy)
+ - [キャッシュ制御 Cache control](cachecontrol)
   - 形式
     - gulp + スクリプト
   - 対象
